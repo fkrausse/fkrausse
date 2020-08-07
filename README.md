@@ -1,4 +1,5 @@
 ### Hi there 👋
+# [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabian-krausse/)](https://www.linkedin.com/in/fabian-krausse/) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/fkrausse/)](https://github.com/fkrausse/)
 
 <!--
 **fkrausse/fkrausse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
